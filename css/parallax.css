@@ -80,7 +80,7 @@ overflow: hidden;
   height: 110%;
   top: -5%;
   left: -5%;
-  background: url('img/background.jpg') 50% 100% /cover no-repeat;
+  background: url('/img/background.jpg') 50% 100% /cover no-repeat;
 }
 
 .paralax__rope {
@@ -141,7 +141,7 @@ transform: scale(0.6);
 
 
 .paralax__element_1 span {
-  background: url('img/clouds/board-cloud-2.png') 0 0 / 100% no-repeat;
+  background: url('/img/clouds/board-cloud-2.png') 0 0 / 100% no-repeat;
 }
 
 .paralax__element_2 {
@@ -150,7 +150,7 @@ transform: scale(0.6);
 }
 
 .paralax__element_2 span {
-  background: url('img/clouds/board-cloud-1.png') 0 0 / 100% no-repeat;
+  background: url('/img/clouds/board-cloud-1.png') 0 0 / 100% no-repeat;
 }
 
 .paralax__element_3 {
@@ -158,7 +158,7 @@ transform: scale(0.6);
   left: 80%;
 }
 .paralax__element_3 span {
-  background: url('img/clouds/board-birds.png') 0 0 / 100% no-repeat;
+  background: url('/img/clouds/board-birds.png') 0 0 / 100% no-repeat;
 }
 
 .paralax__element_4 {
@@ -166,7 +166,7 @@ transform: scale(0.6);
   left: 10%;
 }
 .paralax__element_4 span {
-  background: url('img/clouds/board-cloud-1.png') 0 0 / 100% no-repeat;
+  background: url('/img/clouds/board-cloud-1.png') 0 0 / 100% no-repeat;
 }
 
 .paralax__element_5 {
@@ -174,7 +174,7 @@ transform: scale(0.6);
   left: 50%;
 }
 .paralax__element_5 span {
-  background: url('img/clouds/board-cloud-4.png') 0 0 / 100% no-repeat;
+  background: url('/img/clouds/board-cloud-4.png') 0 0 / 100% no-repeat;
 }
 
 .paralax__element_6 {
@@ -182,7 +182,7 @@ transform: scale(0.6);
   left: 30%;
 }
 .paralax__element_6 span {
-  background: url('img/clouds/board-birds.png') 0 0 / 100% no-repeat;
+  background: url('/img/clouds/board-birds.png') 0 0 / 100% no-repeat;
 }
 
 .paralax__element_7 {
@@ -190,7 +190,7 @@ transform: scale(0.6);
   left: 60%;
 }
 .paralax__element_7 span {
-  background: url('img/clouds/board-cloud-2.png') 0 0 / 100% no-repeat;
+  background: url('/img/clouds/board-cloud-2.png') 0 0 / 100% no-repeat;
 }
 
 .paralax__element_8 {
@@ -198,12 +198,12 @@ transform: scale(0.6);
   left: 80%;
 }
 .paralax__element_8 span {
-  background: url('img/clouds/board-cloud-3.png') 0 0 / 100% no-repeat;
+  background: url('/img/clouds/board-cloud-3.png') 0 0 / 100% no-repeat;
 }
 
 .paralax__wave {
   position: absolute;
-  background: url(img/waves/wave-paint.png) 0 0 / auto 101% repeat-x;
+  background: url(/img/waves/wave-paint.png) 0 0 / auto 101% repeat-x;
   left: -100%;
   width: 300%;
   opacity: 0;
@@ -213,7 +213,7 @@ transform: scale(0.6);
   bottom: 180px;
   height: 86px;
   animation: wave 7.111111s 0.1s infinite linear;
-  background: url(img/waves/wave-paint.png) auto 101% repeat-x;
+  background: url(/img/waves/wave-paint.png) auto 101% repeat-x;
 }
 .paralax__wave_2 {
   bottom: 144px;
@@ -224,7 +224,7 @@ transform: scale(0.6);
   bottom: 108px;
   height: 144px;
   animation: wave 6.22222s 0.1s infinite linear;
-  background: url(img/waves/wave-paint.png) auto 101% repeat-x;
+  background: url(/img/waves/wave-paint.png) auto 101% repeat-x;
 }
 .paralax__wave_4 {
   bottom: 72px;
@@ -241,11 +241,11 @@ transform: scale(0.6);
   bottom: -72px;
   height: 288px;
   animation: wave 4.5s 0.1s infinite linear;
-  background: url(img/waves/wave-paint.png) auto 101% repeat-x;
+  background: url(/img/waves/wave-paint.png) auto 101% repeat-x;
 }
 
 .paralax__lighthouse {
-  background: url(img/lighthouse.png) 0 0 no-repeat;
+  background: url(/img/lighthouse.png) 0 0 no-repeat;
   width: 320px;
   height: 560px;
   position: absolute;
